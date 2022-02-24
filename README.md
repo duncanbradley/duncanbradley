@@ -2,4 +2,4 @@
 - 👀 I’m interested in how people interpret data visualisations
 - 🌱 I’m currently learning functional programming (R, Python)
 - 🌍 I use my website as a record of what I've been up to recently
-- 📫 My email address can be copied from [this link](mailto:duncan.bradley@manchester.ac.uk)
+- 📫 My email address can be copied from [this link](mailto:duncan.bradley@manchester.ac.uk) (right click!)
