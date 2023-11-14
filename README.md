@@ -1,5 +1,1 @@
-- 👋 Hi, I’m @duncanbradley
-- 👀 I’m interested in how people interpret data visualisations
-- 🌱 I’m currently learning data science programming (R, Python)
-- 🌍 I use [my website](https://duncanbradley.github.io) to record what I've been up to recently
-- 📫 My email address can be copied from [this link](mailto:duncanbradley4@gmail.com) (right click!)
+
